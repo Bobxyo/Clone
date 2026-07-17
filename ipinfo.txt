@@ -89,7 +89,7 @@
 47.74.155.26:443#SG-Singapore
 152.70.59.138:443#NL-Amsterdam
 150.136.87.192:443#US-Ashburn
-47.253.171.149:443#US-Charlottesville
+47.253.171.149:443#US-Henrico
 141.148.245.210:443#NL-Amsterdam
 144.21.59.145:443#GB-London
 144.21.42.2:443#NL-Amsterdam
